@@ -3,7 +3,7 @@
 # Update V1.6
 
 ### Import Module
-import requests,bs4,sys,os,random,time,re,json,uuid,subprocess,platform,base64
+
 from random import randint
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 from bs4 import BeautifulSoup as par

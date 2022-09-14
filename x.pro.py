@@ -1,15 +1,4 @@
-#!/usr/bin/python3
-#-*-coding:utf-8-*-
-# Update V1.6
 
-### Import Module
-
-from random import randint
-from concurrent.futures import ThreadPoolExecutor as ThreadPool
-from bs4 import BeautifulSoup as par
-from datetime import date
-from datetime import datetime
-from urllib.parse import quote
 
 
 ### Perumpamaan Module & Syntax

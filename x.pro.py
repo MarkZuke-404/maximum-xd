@@ -1,15 +1,4 @@
 
-
-
-### Perumpamaan Module & Syntax
-_req_ses_  = requests.Session()
-_req_get_  = requests.get
-_req_post_ = requests.post
-_js_lo_    = json.loads
-_cici_azimvau_    = input
-_azimvau_dapunta_ = open
-_cici_cici_       = exit
-
 ### Color
 Z = "\033[1;31m" # Hitam
 P = "\033[1;32m" # Putih
